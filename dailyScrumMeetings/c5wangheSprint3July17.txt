@@ -1,0 +1,14 @@
+What did I do last time?
+    - Created test suite for echo, include 7 scenerios
+    - Found a bug caused by "==" in echo class 
+    - Modify parser and other class to throw invalidCommand exception 
+    - Add some methods to FileSystem/File/Directory to facilitate test in unit 
+      test
+    
+    
+
+What do I plan to do now?
+    - 
+
+Am I blocked on anything?
+    - No

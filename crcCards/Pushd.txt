@@ -1,0 +1,12 @@
+Class name: Pushd
+Parent class: 
+Subclasses:
+
+Responsibilities:
+1. Save the current working directory into the directory stack 
+2. Using CD to navigate to the new directory provided by user
+3  Throw error when new directory pathname contains error
+
+Collaborators:
+Directory
+DirectoryStack

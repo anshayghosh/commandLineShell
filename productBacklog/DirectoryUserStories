@@ -1,0 +1,8 @@
+As a user of the file system, I'd like to be able
+to have directories stores subdirectories and files
+
+As someone accessing a directory, I'd like them
+to have a name and path by which I can call them.
+
+As a programmer, I'd like to have the Directory class
+have basic functions like adding or removing subDirectories.

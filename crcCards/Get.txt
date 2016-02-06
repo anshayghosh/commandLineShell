@@ -1,0 +1,10 @@
+Class name: Get
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. Access URL provided and copy file pointed at by URL into current directory
+
+
+Collaborators:
+FileSystem

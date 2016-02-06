@@ -1,0 +1,14 @@
+ls user stories
+
+As a user I would like to be able to list all of the contents of a directory
+
+As a user I would like to be able to list the contents of a directory using a
+path
+
+As a user I would like to be able to list a file's name using a path
+
+As a user I would like to be able to input multiple paths into the command ls
+
+As a user I would like to be able to list the contents of a directory and all 
+subdirectories contained within it
+

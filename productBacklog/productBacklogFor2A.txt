@@ -1,0 +1,38 @@
+Draft features for the Jshell:
+1 Able to create a directory /folder 
+2 Able to create  file 
+3 Appending something into a file
+4 Error checking: check the whether or not the argument is valid 
+5 Parser: parse the command
+6 deleting a folder 
+7 Changing reference of folder/file
+8 Maintain a reference of the current directory in Jshell
+9 Pathfinder: find the the directory/file specified by the path and return a 
+  reference to the directory/file (dose this mean file or directory should 
+   inherit from the other since we cann't return two different Objects )
+10 PWD: be able to print the current path
+11 Man: display the details for every command 
+12 Cat: display the file
+
+
+Work seperation (need further discussion):
+
+1.Implement file/ directory 
+
+2.Pathfinder
+
+3.Moving a folder/file
+  Copy a folded/file
+
+4.Jshell in generall :exit
+Parser 
+
+5.Implementing the rest of the commands
+e.g: Pwd cat Echo/other
+
+6.miscellaneous:
+man:Manual for each command 
+tests, user story,comments
+
+             
+          

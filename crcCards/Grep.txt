@@ -1,0 +1,13 @@
+Class name: Grep
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. find the content inside a file that matches the pattern specified by user
+ 2. Can apply responsibility 1 to all the files inside a directory specidied by 
+    user
+
+
+Collaborators:
+Pathfinder
+Directory 

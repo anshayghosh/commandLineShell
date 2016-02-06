@@ -1,0 +1,10 @@
+Class name: DirectoryStack
+Parent class: 
+Subclasses:
+
+Responsibilities:
+1. Act like a stack with element inside itself be directory class
+
+Collaborators:
+Directory
+LinkedList

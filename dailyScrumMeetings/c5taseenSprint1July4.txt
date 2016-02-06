@@ -1,0 +1,10 @@
+What did I do last time?
+    - worked on JShell and Parser
+    - thought about how Directory class should work
+
+What do I plan to do now?
+    - Create user stories for Directory class
+    - Finish JShell and Parser comments and testing
+
+Am I blocked on anything?
+    - Not yet

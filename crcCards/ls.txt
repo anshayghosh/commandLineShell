@@ -1,0 +1,12 @@
+Class name: ls
+Parent class: 
+Subclasses:
+
+Responsibilities:
+ 1. Print the names of files and directories in the current 
+directory,with a new line following each of them.
+ 2. Print the contents of a directory provided with a relative or absolute path
+ 3. Print the name of a file provided with a relative or absolute path
+
+Collaborators:
+FileSystem

@@ -1,0 +1,10 @@
+What did I do last time?
+    - Created Popd,Pushd,DirectoryStack classes
+    - Wrote junit test for those classes
+    - Found a possible error in Directory when ran unit test
+
+What do I plan to do now?
+    - Work on Grep class
+
+Am I blocked on anything?
+    - No

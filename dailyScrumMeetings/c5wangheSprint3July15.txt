@@ -1,0 +1,14 @@
+What did I do last time?
+    - Finished coding manual class, wait the rest of the manual to be filled in 
+    - Check code format 
+    - Tweak Jshell/parser to call manual correctly
+    - Fill in the manual for man
+    - Did intuitive test on echo and man command
+    
+    
+
+What do I plan to do now?
+    - Check fringe cases 
+
+Am I blocked on anything?
+    - No

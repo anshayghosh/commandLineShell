@@ -1,0 +1,11 @@
+What did I do last time?
+	-checked javadoc for all classes
+	-checked formatting
+	-added !number function
+	-added test cases
+
+What do I plan to do now?
+    -
+
+Am I blocked on anything?
+    - No

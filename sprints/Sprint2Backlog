@@ -1,0 +1,49 @@
+//Sprint 2 Backlog
+July 8 - July 13
+
+a) Create relevant user stories for each command.
+b) Write code for CD class.
+c) Write code for CP class.
+d) Create and write code for FileSystem class.
+e) Write code for PWD class.
+f) Write code for Cat class.
+g) Write code for Echo class.
+h) Revise preexisting to implement new classes, and ensure functionality.
+
+a-1. User stories for CD class
+a-2. User stories for CP class
+a-3. User stories for FileSystem class
+a-4. User stories for PWD class
+a-5. User stories for Cat class
+a-6. User stories for Echo class
+
+b-1. (CD) Allow user to navigate through multiple subdirectories given either full/relative path
+b-2. (CD) Ensure user can not attempt to access parent directory at root
+
+c-1. (CP) Allow users to copy and paste a directory or file to another location.
+c-2. (CP) Ensure safety-checks to prevent possible errors (e.g copy pasting to same location)
+
+d-1. (FileSystem) Ensure only one instance can be created, and stores a single root.
+
+e-1. (PWD) Implement to print the current working directory to the user.
+f-1. (Cat) Implement to read desired file and print to JShell.
+
+g-1. (Echo) Implement file creation
+g-2. (Echo) Implement appending text to pre-existing files.
+
+h-1. (JShell) Implement relevant classes to create a functional prototype.
+h-2. (PathFinder) Update PathFinder to implement new/changed classes.
+h-3. (MV) Update MV to implement new/changed classes.
+
+These tasks are assigned as follows:
+User: Su Young
+Tasks: a-2, a-3, c-1, c-2, d-1, h-3
+
+User: Anshay
+Tasks: a-4, a-5, e-1, f-1
+
+User: Heyang
+Tasks: a-6, g-1, g-2, h-2
+
+User: Jeffrey
+Tasks: a-1, b-1, b-2, h-1

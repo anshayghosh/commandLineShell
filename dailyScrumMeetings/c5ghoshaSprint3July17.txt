@@ -1,0 +1,8 @@
+What did I do last time?
+    -Finished the pwd function and cat function
+
+What do I plan to do now?
+    -worked on the updated CRC cards
+    
+Am I blocked on anything?
+    - Not yet

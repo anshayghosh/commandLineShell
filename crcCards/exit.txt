@@ -1,0 +1,9 @@
+Class name: exit
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. quit the program 
+
+
+Collaborators:

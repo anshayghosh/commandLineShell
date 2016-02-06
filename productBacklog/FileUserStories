@@ -1,0 +1,9 @@
+As a file editor, I'd like to be 
+able to add text to a pre-existing file.
+
+As a file creator, I'd like to be 
+able to create new text files, and ensure they'll
+always be inside of a directory.
+
+As a file user, I'd like to be 
+able to identify a file by a name I can assign.

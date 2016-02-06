@@ -1,0 +1,39 @@
+//Sprint 4 Backlog
+July 21 - July 26
+
+a) Write the base code for PushPopDir class
+b) Write the base code for Grep class
+c) Rewrite static classes to implement redirection of STDOUT to text file
+D) Add functionality to LS to enable recursive directory calls, and multi-paths
+e) Write the base code for GetURL class
+f) Write the base code for History class
+
+Specific tasks to be completed:
+a-1. (PushPopDir) Implement pushd which takes directory path into stack
+a-2. (PushPopDir) Implement popd to return dir. path.
+a-3. (PushPopDir) Ensure in popd, directory path still exists.
+b-1. (Grep) Create Grep class to receive REGEX for given paths
+b-2. (Grep) Add functionality to enable -R/-r recursive tag
+c-1. (Parser) Alter Parser to take in different parameter inputs
+c-2. Alter all function classes to check for redirection and code accordingly.
+d-1. (LS) Allow LS to take multiple paths, and output accordingly.
+d-2. (LS) Add functionaliy to enable -R/-r recursive tag
+e-1. (GetURL) Write code to take input as as url as .html or .txt
+e-2. (GetURL) Given URL input, output to given file accordingly.
+f-1. (Parser(?)) Store user commands for access in History class.
+f-2. (History) Implement history function to return list of previous commands
+f-3. (History) Enable optional parameter for what commands are shown
+f-4. (History/Parser) Implement HashMap for user inputs.
+
+These tasks are assigned as follows:
+User: Su Young
+Tasks: C
+
+User: Anshay
+Tasks: F
+
+User: Heyang
+Tasks: A, B
+
+User: Jeffrey
+Tasks: D, E

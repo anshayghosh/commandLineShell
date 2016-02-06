@@ -1,0 +1,15 @@
+Class name: Pathfinder
+Parent class: 
+Subclasses:
+
+Responsibilities:
+ 1. find the file/directory based on the given pathname 
+ 2. Return reference to file/directory if found or the last existing directory
+ 3. if there are any mistakes inside the path , path finder will throw an 
+ exception
+ 4. if the file or directory doesn't exist , the pathfinder will throw an
+ exception  
+
+Collaborators:
+Directory
+File

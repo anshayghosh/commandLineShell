@@ -1,0 +1,12 @@
+What did I do last time?
+    -Added to user stories for ls
+    -Wrote code to allow ls to handle multiple paths
+    -Wrote Get CRC card
+    -Coded Get command
+
+What do I plan to do now?
+    -Complete ls (implement -R flag)
+    -Complete Get
+
+Am I blocked on anything?
+    - No

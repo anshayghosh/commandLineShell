@@ -1,0 +1,11 @@
+What did I do last time?
+    - Store user commands for access in History class.
+    - Implement history function to return list of previous commands
+    - Enable optional parameter for what commands are shown
+    
+What do I plan to do now?
+    - Updating CRC cards and UserStories
+
+Am I blocked on anything?
+    - No
+    

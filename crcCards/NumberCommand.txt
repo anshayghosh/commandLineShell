@@ -1,0 +1,9 @@
+Class name: NumberCommand
+Parent class: 
+Subclasses:
+
+Responsibilities:
+1. Re-execute the command on the position of the inputted ArrayList
+
+Collaborators:
+Parser

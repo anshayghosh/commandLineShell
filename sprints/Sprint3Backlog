@@ -1,0 +1,35 @@
+//Sprint 1 Backlog
+July 13 - July 18
+
+a) Create manual for every command and the actual manual class
+b) Tweak and style check
+c) Ensure all functionality works together
+
+Specific tasks to be completed:
+a-1. Manual for CP
+a-2. Manual for MV
+a-3. Manual for PWD
+a-4. Manual for Cat
+a-5. Manual for Echo
+a-6. Manual for CD
+a-7. Manual for LS
+a-8. Create Manual class
+b-1. Style check/tweaks for File
+b-2. Style check/tweaks for FileSystem
+b-3. Style check/tweaks for Directory
+b-4. Style check/tweaks for PathFinder
+b-5. Style check/tweaks for JShell
+c-1. Verify all fringe cases have been covered
+
+These tasks are assigned as follows:
+User: Su Young
+Tasks: a-1, a-2, b-1, b-2, c-1
+
+User: Anshay
+Tasks: a-3, a-4, b-3, c-1
+
+User: Heyang
+Tasks: a-5, a-8, b-4, c-1
+
+User: Jeffrey
+Tasks: a-6, a-7, b-5, c-1

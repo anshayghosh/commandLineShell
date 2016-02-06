@@ -1,0 +1,16 @@
+What did I do last time?
+    - Created grep class grep
+    - Write unit test for grep
+
+What do I plan to do now?
+    - More comments and error checking
+
+Am I blocked on anything?
+    - Echo class cann't treat \n as line separator, searched a long time for 
+     solution but get no applicable answer
+     Update: just find the answer, the above problem is caused by \n in the 
+     string actually be treated as \+n instead of a escape sequence.
+     I tried replace the it with System.getproperty.("lineseperator"),but it 
+     doesn't work
+     The worked way I found is manually tear down the string and add "\n" 
+    

@@ -1,0 +1,20 @@
+Class name: Parser
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. Parse a String input and pass an array where each position in the array
+ represents a separate command or argument in the provided String to the 
+ appropriate command class
+ 2. Catches thrown errors from Command classes and prints the appropriate 
+ error message
+Collaborators:
+Cat
+Cd
+Cp
+Echo
+Ls
+Mkdir
+Mv
+Pwd
+FileSystem

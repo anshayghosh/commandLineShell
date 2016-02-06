@@ -1,0 +1,10 @@
+cd user stories
+
+As a user I would like to change to the parent directory
+
+As a user I would like to change to a directory within the current directory
+
+As a user I would like to change to a directory within one of the current 
+directory's directories
+
+As a user I would like to change to any directory using a full path address

@@ -1,0 +1,10 @@
+Class name: cp
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. copy a file, like mv command but don't remove the old file
+
+
+Collaborators:
+FileSystem

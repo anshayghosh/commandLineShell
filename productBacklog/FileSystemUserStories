@@ -1,0 +1,10 @@
+FileSystem
+
+As an administrator of this file system, 
+I'd like for there only to be a single instance of a FileSystem
+
+As a user, I'd like to be able to access the root directory of
+this FileSystem.
+
+As a user, I'd like the FileSystem to keep track of where my
+current directory is.

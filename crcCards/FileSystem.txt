@@ -1,0 +1,11 @@
+Class name: FileSystem
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. To exist as a singleton instance of the shell's filesystem.
+ 2. Contains the root directory displayed and accessed by JShell
+
+Collaborators:
+ 1. Directory
+ 2. File

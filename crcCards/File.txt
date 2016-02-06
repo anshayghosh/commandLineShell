@@ -1,0 +1,10 @@
+Class name: File
+Parent class: 
+Subclasses:
+
+Responsibilities:
+ 1. Contains the information in a particular file 
+ 2. Has a filename
+
+Collaborators:
+ 1. Directory

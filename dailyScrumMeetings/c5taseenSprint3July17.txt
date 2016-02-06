@@ -1,0 +1,10 @@
+What did I do last time?
+    - Added test classes for ls and cd and comments for both
+    -Wrote out Manual
+
+What do I plan to do now?
+    - More comments and javadoc
+    -Final touches
+
+Am I blocked on anything?
+    - No

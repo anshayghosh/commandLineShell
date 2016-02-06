@@ -1,0 +1,9 @@
+What did I do last time?
+	-Finished LS
+	-Finished Get
+
+What do I plan to do now?
+    -Comments, Javadoc, and Testing
+
+Am I blocked on anything?
+    - No

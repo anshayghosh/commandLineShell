@@ -1,0 +1,11 @@
+Class name: mkdir
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. Create a directory DIR,	 which may be relative to the current 
+ directory or may be a full path.
+ 2. Create multiple directories DIR1 DIR2 provided in relative or absolute paths
+
+Collaborators:
+FileSystem

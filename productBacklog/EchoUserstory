@@ -1,0 +1,10 @@
+User story for Echo class:
+1.As a user, I want to display string via the shell. 
+
+2.I also want to be able to modify a file like replacing the existing content 
+or add new content to the file
+  
+3. I also want to be able to crate a file with specified content. 	
+	
+	
+	

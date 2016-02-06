@@ -1,0 +1,17 @@
+Class name: echo
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. echo STRING > OUTFILE
+Put	 STRING	 in	file OUTFILE. STRING is	a string of	characters	
+surrounded	 by	 quotation	 marks.	 This creates a	new file if	
+OUTFILE	 does not exist, and erases	 the old contents if 
+OUTFILE already	exists.	In	either	case,	the	only	thing	in	OUTFILE	
+should be STRING
+
+ 2. echo STRING >> OUTFILE
+Like the previous command,but appends instead of overwrites.
+
+Collaborators:
+FileSystem

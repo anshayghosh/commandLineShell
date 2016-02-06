@@ -1,0 +1,11 @@
+What did I do last time?
+    - Created base code for MV class
+    - Created MV UserStories
+
+What do I plan to do now?
+    - Create user story for File and Directory
+    - Create base code for File class
+    - Continue polishing MV function
+
+Am I blocked on anything?
+    - How to handle errors/exception from PathFinder class

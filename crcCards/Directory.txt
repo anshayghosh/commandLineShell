@@ -1,0 +1,15 @@
+Class name: Directory
+Parent class: 
+Subclasses:
+
+Responsibilities:
+ 1. Has a name
+ 2. Has an pathname
+ 3. Contains File objects
+ 4. Contain  Directory objects 
+
+Collaborators:
+ 1. File
+ 2. Directory
+
+ 

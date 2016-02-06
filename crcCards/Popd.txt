@@ -1,0 +1,12 @@
+Class name: Popd
+Parent class: 
+Subclasses:
+
+Responsibilities:
+1. Remove the top entry from the directory stack 
+2. Using CD to navigate to the new directory poped from directory stack
+3  Throw error when directory stack is empty
+
+Collaborators:
+Directory
+DirectoryStack

@@ -1,0 +1,9 @@
+Class name: mv
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. Move a File or Directory from one Directory to another
+
+Collaborators:
+FileSystem

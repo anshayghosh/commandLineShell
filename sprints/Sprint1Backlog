@@ -1,0 +1,39 @@
+//Sprint 1 Backlog
+July 2 - July 7
+
+a) Create relevant user stories for each command
+b) Write the base code for the PathFinder class
+c) Write the base code for the File class
+d) Write the base code for the Directory class
+e) Prompt user for inputs, and parse the input through command line interpreter.
+f) Write base code for the LS class
+
+Specific tasks to be completed:
+a-1. User stories to address functionality of files and directories
+a-2. User stories for creating a directory
+a-3. User stories for printing working directory
+a-4. User stories for printing current directory's files and directories
+a-5. User stories for Echo class
+a-6. User stories for moving Directories and Files
+b-1. (PathFinder) Parse the string path input to a usable string array
+b-2. (PathFinder) Use string array to return correct directory
+c-1. (File) Implement File to have a name, and string contents.
+d-1. (Directory) Enable Directory to have other Files, and Directories
+e-1. (JShell) Begin coding the basic structure of the command line interpreter
+e-2. (JShell) Parse the user input for proper keywords
+e-3. (JShell) Have the shell continually prompt the user for input
+f-1. (LS) Create the base code for the LS class
+g-1. (MV) Create the base code for the MV class
+
+These tasks are assigned as follows:
+User: Su Young
+Tasks: a-1, a-6, c-1, g-1
+
+User: Anshay
+Tasks: a-3, a-4, d-1, f-1
+
+User: Heyang
+Tasks: a-5, b-1, b-2
+
+User: Jeffrey
+Tasks: a-2, e-1, e-2, e-3

@@ -1,0 +1,7 @@
+mkdiruserstories
+
+As a user I would like to be able to make a directory in the current directory.
+
+As a user I would like to be able to make a directory in any existing directory.
+
+As a user I would like to be able to make multiple directories.

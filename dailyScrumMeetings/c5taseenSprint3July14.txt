@@ -1,0 +1,9 @@
+What did I do last time?
+    - Added basic code for Manual class and cd and ls commands
+
+What do I plan to do now?
+    - Write out actual Manual
+    - Add comments and javadoc
+
+Am I blocked on anything?
+    - No

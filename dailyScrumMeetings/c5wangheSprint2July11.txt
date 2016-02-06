@@ -1,0 +1,12 @@
+What did I do last time?
+    - Finished coding echo command
+    - Did some intuitive test on the echo command
+    
+    
+
+What do I plan to do now?
+    -Test echo in more cases and modify the code if some part like error 
+    checking shouldn't  be in the command
+
+Am I blocked on anything?
+    - No

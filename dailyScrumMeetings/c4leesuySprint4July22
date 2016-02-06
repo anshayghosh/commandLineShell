@@ -1,0 +1,9 @@
+What did I do last time?
+    - Change all classes to clearly differentiate STDOUT and STDERROR
+    - Allow parser to accept redirection inputs
+    
+What do I plan to do now?
+    - Write main code to funnel STDOUT into designated File.
+
+Am I blocked on anything?
+    - No

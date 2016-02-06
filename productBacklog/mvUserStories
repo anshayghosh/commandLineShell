@@ -1,0 +1,13 @@
+MV
+
+As a user of this file system, 
+I'd like to be able to move a directory
+to another directory of my choosing
+
+As an administrator, I'd like to make sure 
+users can't accidently move a directory into
+one of it's subdirectories.
+
+As a user of the file system,
+I'd like to be able to put in the full/incomplete
+file path as the parameters for the mv command

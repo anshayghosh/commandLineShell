@@ -1,0 +1,9 @@
+Class name: cat
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. to display the contents of a file
+
+Collaborators:
+ 1. File

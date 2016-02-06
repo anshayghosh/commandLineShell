@@ -1,0 +1,10 @@
+What did I do last time?
+    - Updated Pathfinder, throws exception when directory doesn't exist
+    - Update echo user story
+    
+
+What do I plan to do now?
+    -test PathFinder
+
+Am I blocked on anything?
+    - No

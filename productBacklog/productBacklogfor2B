@@ -1,0 +1,7 @@
+1. Create pushd and popd under a single class PushPopDir
+2. Create class Grep to handle the grep command using regex.
+3. Implement redirection of STDOUT into text files.
+4. Add functionality to LS to enable recursive directory calls, and more paths
+5. Implement getURL which takes a URL and takes the text.
+6. Have Parser(?) store all commands input by user, and can be accessed via cmd
+7. Implement !number command to be able to do a command again

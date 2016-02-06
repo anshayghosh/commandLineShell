@@ -1,0 +1,10 @@
+Class name: cd
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. to change directories using a path absolute or relative
+ 2. to change directories using the keyword . or ..
+
+Collaborators:
+FileSystem

@@ -1,0 +1,10 @@
+What did I do last time?
+    - worked on JShell and cd
+    - added cd user stories
+
+What do I plan to do now?
+    - Bring code together and find bugs
+    - Add comments and javadoc
+
+Am I blocked on anything?
+    - how to decide if something is a file for ls

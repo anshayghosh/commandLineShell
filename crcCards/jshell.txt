@@ -1,0 +1,15 @@
+Class name: jshell
+Parent class:
+Subclasses:
+
+Responsibilities:
+ 1. Read the input and pass it to Parser for an array representing the input
+ without unnecessary white spaces.
+ 2. Read and call the appropriate command and pass the corresponding 
+ arguments
+ 3. Maintain a reference to  the current directory 
+
+
+Collaborators:
+ 1. FileSystem
+ 2. Parser
